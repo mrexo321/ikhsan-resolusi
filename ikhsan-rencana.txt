@@ -1,9 +1,11 @@
 React Native
 Javascript
+*ES6
 C++
 Java
 Php
 Laravel
+*Eloquent ORM
 Html
 Css
 Node.Js
